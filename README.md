@@ -1,4 +1,3 @@
-README.md
 ```bash
 conda env create -f requirements.yaml
 ```

@@ -1,8 +1,9 @@
-name: nflfastpy
+name: nflfastr_graph
 dependencies:
 - python=3.7
 - matplotlib
 - seaborn 
 - numpy
 - pandas
-- rpy2
+- pip:
+        - pyreadr
