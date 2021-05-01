@@ -1,0 +1,8 @@
+name: nflfastpy
+dependencies:
+- python=3.7
+- matplotlib
+- seaborn 
+- numpy
+- pandas
+- rpy2
